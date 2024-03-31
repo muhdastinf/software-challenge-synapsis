@@ -63,7 +63,7 @@ export default function AddUserPage() {
         </h1>
       </div>
 
-      <div className="mx-20 flex flex-col justify-center items-center">
+      <div className="mx-20 flex flex-col justify-center items-center mb-8">
         <form onSubmit={handleSubmit} className="space-y-4 w-1/2 mt-6">
           <div>
             <label htmlFor="name" className="block text-sm font-medium">
