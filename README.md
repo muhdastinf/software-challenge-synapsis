@@ -2,10 +2,19 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## How to Run
 1. Copy this repository using
-   ```bash
-  git clone [repository_link]
-  ```
+```bash
+git clone [repository_link]
+```
 
+2. Install All Dependencies Using NPM
+```bash
+npm install
+```
+
+3. Start the Project Using NPM
+```bash
+npm run dev
+```
 
 ## Getting Started
 
