@@ -16,6 +16,8 @@ npm install
 npm run dev
 ```
 
+### Deploy Link - [Link](https://software-challenge-synapsis-dastin.vercel.app/)
+
 ## Getting Started
 
 First, run the development server:
